@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "server.port",
+    "type": "java.lang.String",
+    "description": "A description for 'server.port'"
+  },
+  {
+    "name": "server.ssl.key-store",
+    "type": "java.lang.String",
+    "description": "A description for 'server.ssl.key-store'"
+  },
+  {
+    "name": "server.ssl.key-store-password",
+    "type": "java.lang.String",
+    "description": "A description for 'server.ssl.key-store-password'"
+  },
+  {
+    "name": "server.ssl.key-store-type",
+    "type": "java.lang.String",
+    "description": "A description for 'server.ssl.key-store-type'"
+  },
+  {
+    "name": "server.ssl.key-alias",
+    "type": "java.lang.String",
+    "description": "A description for 'server.ssl.key-alias'"
+  }
+]}
